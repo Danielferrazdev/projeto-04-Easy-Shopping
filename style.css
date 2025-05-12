@@ -111,13 +111,13 @@ a:active {
     }
     p {
         width: auto;
-        margin: 15px 40px;
+        margin: 40px 40px;
         font-size: 14px;
         line-height: 25px;
         text-align: center;
     }
     .button-get {
-        margin: 15px auto; /* para ajustar auto num botao,
+        margin: auto; /* para ajustar auto num botao,
         tem q mudar o display para block */
         display: block;
         height: 62px;
